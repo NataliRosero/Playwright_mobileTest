@@ -1,4 +1,4 @@
-# 📱 Playwright Mobile Test
+# 📱 Playwright Mobile Test - Gmail
 Repositorio para automatización de pruebas usando Playwright con emulación móvil y Page Object Model (POM).  
 Incluye generación automática de evidencias: screenshots y videos (este se incluye directamente en el reporte de la ejecución de las pruebas)
 
